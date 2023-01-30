@@ -2,7 +2,7 @@
   "name": "express-vercel",
   "version": "0.0.2",
   "description": "express vercel ",
-  "main": "app.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "vercel dev",
     "test": "jest -i"
